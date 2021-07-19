@@ -2,7 +2,7 @@
   "files": [
     {
       "pattern": "jenkins-examples/pipeline-examples/resources/",
-      "target": "libs-snapshot-local",
+      "target": "example-repo-local",
       "regexp": "true",
       "exclusions": [".*.zip", "jenkins-examples/pipeline-examples/resources/props.*"]
     }
